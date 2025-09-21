@@ -133,7 +133,4 @@ A dual-platform system featuring:
 
 
 
-
----
-
 **⭐ Star this repository if you found it helpful!**

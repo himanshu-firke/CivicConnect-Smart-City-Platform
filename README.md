@@ -119,7 +119,7 @@ A dual-platform system featuring:
 
 - [**Vishal Sarde**](https://github.com/vishalsarde)
 
-- [****](https://github.com/)
+- [**Pratik Shinde**](https://github.com/)
 
 
 
@@ -129,7 +129,7 @@ A dual-platform system featuring:
 - **Category**: Smart City Solutions
 - **Theme**: Digital Governance and Citizen Services
 
----
+
 
 
 

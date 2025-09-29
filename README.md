@@ -128,6 +128,7 @@ A dual-platform system featuring:
 - **Event**: TENET Hack 25
 - **Category**: Smart City Solutions
 - **Theme**: Digital Governance and Citizen Services
+- **PPT**: https://docs.google.com/presentation/d/1t3UJwH6H6HfHczfiaOkiOAhJ3AMItEIQ/edit?usp=sharing&ouid=108765930448252938862&rtpof=true&sd=true
 
 
 
